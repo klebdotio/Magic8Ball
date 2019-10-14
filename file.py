@@ -2,13 +2,13 @@ import random
 import sys
 
 
-# Magic 8 ball program made my kaleb (klebdotio)
+# Magic 8 ball program made by kaleb (klebdotio)
 # you may add more responses into the "answers" list
 # if the program does not work it may be because you do not
 # have the random or sys library installed
 
 exitvar = "Exit"
-# Change to change the word that exits the program
+# Change me to change the word that exits the program
 
 print("Exit the program by typing 'Exit'")
 while True:
