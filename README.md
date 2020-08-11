@@ -4,6 +4,8 @@ Also, please note: I no longer provide PyInstaller links
 due to slow load times and other issues. I will no longer
 support these either.
 
+If you need to download the v1.0 of this script, clone it from the v1.0 branch.
+
 **** Installation: ****
 
 This download should've come with 3 Files, and 1 Folder
