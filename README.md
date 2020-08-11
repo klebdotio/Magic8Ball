@@ -8,9 +8,8 @@ If you need to download the v1.0 of this script, clone it from the v1.0 branch.
 
 **** Installation: ****
 
-This download should've come with 3 Files, and 1 Folder
-The files should be named: magic8ball.py, requirements.txt
-and README.md The folder should be named assets.
+This download should've come with 4 Files, and 1 Folder
+The files should be named: magic8ball.py, requirements.txt, LICENSE and README.md The folder should be named assets.
 Do not move any of the folders or rename files, as this can
 cause unintended behaviour.
 
